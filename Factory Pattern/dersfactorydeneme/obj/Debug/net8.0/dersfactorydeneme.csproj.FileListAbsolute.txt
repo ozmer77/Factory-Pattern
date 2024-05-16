@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\bin\Debug\net8.0\dersfactorydeneme.exe
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\bin\Debug\net8.0\dersfactorydeneme.deps.json
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\bin\Debug\net8.0\dersfactorydeneme.runtimeconfig.json
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\bin\Debug\net8.0\dersfactorydeneme.dll
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\bin\Debug\net8.0\dersfactorydeneme.pdb
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.dll
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\refint\dersfactorydeneme.dll
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.pdb
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\dersfactorydeneme.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\dersfactorydeneme\dersfactorydeneme\obj\Debug\net8.0\ref\dersfactorydeneme.dll
